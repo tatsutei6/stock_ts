@@ -7,6 +7,6 @@ yarn-debug.log*
 yarn-error.log*
 /.pnp
 .pnp.js
-
+.DS_Store
 /.idea
 /.vscode
