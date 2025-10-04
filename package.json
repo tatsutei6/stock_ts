@@ -1,0 +1,17 @@
+{
+  "name": "stock-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@typescript/native-preview": "^7.0.0-dev.20250916.1",
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz"
+  },
+  "private": true,
+  "devDependencies": {
+    "@types/node": "^24.5.1"
+  }
+}
