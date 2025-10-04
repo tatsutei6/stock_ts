@@ -7,7 +7,7 @@
     "build": "tsc"
   },
   "dependencies": {
-    "@typescript/native-preview": "^7.0.0-dev.20250916.1",
+    "@typescript/native-preview": "^7.0.0-dev.20251004.1",
     "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz"
   },
   "private": true,
