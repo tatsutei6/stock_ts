@@ -7,11 +7,20 @@
     "build": "tsc"
   },
   "dependencies": {
-    "@typescript/native-preview": "^7.0.0-dev.20251004.1",
-    "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz"
+    "axios": "^1.12.2",
+    "echarts": "^6.0.0",
+    "pinia": "^3.0.3",
+    "vue": "^3.5.22",
+    "vue-router": "^4.5.1"
   },
   "private": true,
   "devDependencies": {
-    "@types/node": "^24.5.1"
+    "@types/node": "^24.6.2",
+    "@typescript/native-preview": "^7.0.0-dev.20251004.1",
+    "@vitejs/plugin-vue": "^6.0.1",
+    "@vue/eslint-config-typescript": "^14.6.0",
+    "@vue/tsconfig": "^0.8.1",
+    "vite": "^7.1.9",
+    "vue-tsc": "^3.1.0"
   }
 }
